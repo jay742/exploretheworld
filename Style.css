@@ -1,0 +1,111 @@
+body{
+    background-color: #0B0101;
+}
+.clear{
+    clear: both;
+}
+.oa{
+    opacity: 0.91;
+    
+}
+a{
+    text-decoration: none;
+}
+.mainimg{
+    background:url(space.jpg) no-repeat;
+    height: 800px;
+    width: 1425px;
+
+}
+.grad{
+    background-color:transparent;
+    height: 450px;
+    width: 1425px;
+    position: absolute;
+    bottom: 0px;
+    /* Rectangle: */
+background-image: linear-gradient(-180deg, rgba(11,1,1,0.04) 50%, rgba(87,81,81,0.40) 70%, #D8D8D8 100%);
+}
+.headaa{
+font-family: AvenirNext-Regular;
+font-size: 22px;
+color: rgba(255, 255, 255, 0.986);
+letter-spacing: 0;
+text-align: center;
+text-shadow: 0 1px 0 rgba(255,255,255,0.50);
+position: absolute;
+bottom: 753px;
+left: 92px;
+}
+.icon1{
+    /* Shape: */
+
+border: 1px solid #000000;
+position: absolute;
+bottom: 750px;
+left: 10px;
+}
+li{
+    color: white;
+}
+h3{
+    color: red;
+}
+nav{
+    float: right;
+    position: relative;
+    bottom: 340px;
+}
+nav ul li{
+    list-style: none;
+    float: left;
+    padding-right: 100px;
+    text-align: center;
+    
+    /* About: */
+    font-family: AvenirNext-Regular;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.986);
+    letter-spacing: 0;
+    text-align: center;
+    /* Contact: */
+    font-family: AvenirNext-Regular;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.986);
+    letter-spacing: 0;
+    line-height: 20px;
+    /* Home: */
+    font-family: AvenirNext-Regular;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.986);
+    letter-spacing: 0;
+    text-align: center;
+    /* Missions: */
+    font-family: AvenirNext-Regular;
+    font-size: 20px;
+    color: #C2A3CD;
+    letter-spacing: 0;
+    text-align: center;
+}
+nav ul li a{
+    color: #C2A3CD;
+}
+.butt{
+    border: none;
+    background-color: transparent;
+}
+.buttt{
+    font-family: AvenirNext-Regular;
+    font-size: 20px;
+    color: rgba(255, 255, 255, 0.986);
+    letter-spacing: 0;
+    text-align: center;
+}
+.con1{
+    height: 450px;
+    width: 1425px;
+    background-color: black;
+}
+.lak{
+    color: rgba(255, 255, 255, 0.986);
+}
